@@ -30,7 +30,6 @@ Taskly/
 ├── index.html
 ├── style.css
 ├── script.js
-├── design_document.md
 └── README.md
 ```
 

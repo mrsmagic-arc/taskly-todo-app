@@ -29,14 +29,12 @@ Tidak diperlukan server lokal atau perintah build. Data disimpan pada browser da
 Taskly/
 ├── index.html
 ├── style.css
-├── script.js
-└── README.md
+└── script.js
 ```
 
 - `index.html` menyediakan struktur halaman, form, tracker, filter, dan wadah daftar tugas.
 - `style.css` mengatur tema warna hangat, layout, responsivitas, scrollbar, dan keadaan interaktif.
 - `script.js` menangani data, render, interaksi tugas, validasi, dan penyimpanan.
-- `design_document.md` mencatat komponen dan keputusan desain aplikasi.
 
 ## Model data dan penyimpanan
 

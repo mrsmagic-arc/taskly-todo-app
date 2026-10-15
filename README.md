@@ -1,3 +1,5 @@
+# Live : https://mrsmagic-arc.github.io/taskly-todo-app/
+
 # Taskly
 
 Taskly adalah aplikasi daftar tugas ringan yang berjalan langsung di browser. Aplikasi dibuat dengan HTML, CSS, dan JavaScript murni, tanpa framework, backend, atau proses instalasi dependensi.
